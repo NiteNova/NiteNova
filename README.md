@@ -2,8 +2,7 @@
 I'm currently learning python and interested in getting into C++<br>My main goal is trying to learn as much code as I can in so I can start creating video games.<br>DM me through my discord if you find any mistakes in my code, thanks.<br>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://i.imgur.com/rVDPzqD.png) 
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
