@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning python and interested in getting into C++<br>My main goal is trying to learn as much code as I can, so I can start creating video games.
+I'm currently learning python and C++<br>My main goal is trying to learn as much code as I can, so I can start creating video games.
 
 
 
